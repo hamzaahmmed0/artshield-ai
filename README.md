@@ -7,7 +7,7 @@ This repository is organized as a product, not just a model experiment:
 - `frontend/` contains the public web app built with Next.js
 - `backend/` contains the API built with FastAPI
 - `ml/` contains reusable computer vision and ML modules
-- `docs/` contains product notes and the build roadmap
+
 
 ## What this scaffold includes
 
